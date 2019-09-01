@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectFrameBounds">
-    <option name="x" value="165" />
-    <option name="y" value="141" />
-    <option name="width" value="1614" />
-    <option name="height" value="878" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="C:/projekty/zajecia/.idea" />
   </component>
   <component name="masterDetails">
